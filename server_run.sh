@@ -8,5 +8,8 @@ cd src/backend
 
 
 npm install
+npm cache clean -f
+npm install -g n
+sudo n latest
 
 node index.js

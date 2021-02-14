@@ -30,11 +30,5 @@ ___
 * As Database : MongoDB
 * API tested using : POSTMAN
 
-___
-## Guidelines to setup
-1. Clone the Repository
-```bash
-https://gitlab.crio.do/COHORT_ME_BUILDOUT_XMEME_ENROLL_1612436694845/rutuspatil923-me_buildout_xmeme.git
-```
-2. Install mongodb and run mongo server
+
    
